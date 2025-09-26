@@ -1,10 +1,10 @@
 [README.md](https://github.com/user-attachments/files/22553750/README.md)
 # Laporan Praktikum Git & GitHub  
 
-## 📌 Tujuan  
+## Tujuan  
 Praktikum ini bertujuan untuk memahami penggunaan Git dan GitHub, mulai dari instalasi, konfigurasi awal, alur kerja dasar secara lokal, hingga kolaborasi tim menggunakan *feature branch workflow*.  
 
-## 🛠️ Bagian 1: Instalasi & Konfigurasi Awal Git  
+## Bagian 1: Instalasi & Konfigurasi Awal Git  
 1. **Instalasi Git**  
    - **Windows**: Unduh installer dari [git-scm.com](https://git-scm.com/download/win), jalankan, dan cek dengan `git --version`.  
    - **macOS**: Instal via Homebrew dengan `brew install git`.  
@@ -16,7 +16,7 @@ Praktikum ini bertujuan untuk memahami penggunaan Git dan GitHub, mulai dari ins
    git config --global user.email "email@kamu.com"
    ```
 
-## 📂 Bagian 2: Alur Kerja Dasar Git (Lokal)  
+## Bagian 2: Alur Kerja Dasar Git (Lokal)  
 1. Buat folder proyek & inisialisasi Git:  
    ```bash
    mkdir proyek-web
@@ -45,7 +45,7 @@ Praktikum ini bertujuan untuk memahami penggunaan Git dan GitHub, mulai dari ins
    git merge fitur-kontak
    ```
 
-## ☁️ Bagian 3: Integrasi dengan GitHub  
+## Bagian 3: Integrasi dengan GitHub  
 1. Buat repository di GitHub.  
 2. Hubungkan repository lokal dengan GitHub:  
    ```bash
@@ -54,7 +54,7 @@ Praktikum ini bertujuan untuk memahami penggunaan Git dan GitHub, mulai dari ins
    git push -u origin main
    ```
 
-## 👥 Bagian 4: Workflow Kerja Kelompok (Feature Branch Workflow)  
+## Bagian 4: Workflow Kerja Kelompok (Feature Branch Workflow)  
 1. Clone repository:  
    ```bash
    git clone <URL_REPOSITORY>
@@ -86,6 +86,7 @@ Praktikum ini bertujuan untuk memahami penggunaan Git dan GitHub, mulai dari ins
    ```
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 111803" src="https://github.com/user-attachments/assets/a4d39947-6c8c-47eb-8865-b95f167b4e04" />
 
-## 📖 Kesimpulan  
+## Kesimpulan  
 Melalui praktikum ini, mahasiswa mempelajari alur lengkap penggunaan Git dan GitHub mulai dari instalasi, konfigurasi, manajemen version control secara lokal, hingga kolaborasi tim dengan workflow yang baik.  
